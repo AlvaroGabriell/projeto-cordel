@@ -94,14 +94,14 @@ text-shadow: 1px 1px 0px black;
 
 
 section#img1{
-background-image: url(../exe21/background001.jpg);
+background-image: url(imagens/background001.jpg);
 background-position:right center ;
 
 
 }
 
 section#img2{
-    background-image:url(../exe21/livro.jpg);
+    background-image:url(imagens/background002.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
